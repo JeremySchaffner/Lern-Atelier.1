@@ -24,3 +24,15 @@ Planung 28.08.2026
 Ich kann verschiedene Intervalle programmierbar machen.
 (Heute habe ich... (50-100 Wörter))
 Lernperiode Reflexion
+
+
+# lern Perioden Reflexion
+
+## Was ich gemacht habe:
+Bis jetzt habe ich meist an den Modulen weitergearbeteitet (Modul 431 und Modul 319) um dort alle nötigen Aufgaben wöchentlich fertigzustellen.
+Ausserdem habe ich ein eigenes kleines Text-Based-Rpg Game gecoded, dieses war jedoch nicht all zu gut..
+Jetzt darf ich aber am Modul 320 arbeiten welches mir viel spass bereitet. Es geht darum mein eigenes Spiel zu programmieren, aber alle funktionen werden strukturiert und gut erklärt deswegen fällt mir das arbeiten damit recht leicht. Bis jetzt habe ich verschiedene Klassen typen wie Enemy (für Gegner), Player(für Spieler, Weapons(für Waffen) sowie Mage, Warrior und Healer welche alle auch Player Characters sind, aber mit speziellen Fähigkeiten. Ich habe von jeder Klasse mindestens ein objekt hinzugefüght, aber leider kann man noch nicht viel machen da ich nach dem Modul arbeiten will sodass ich keine fehler mache. 
+Ich hab mir dafür die Freiheit genommen Waffen für alle Charactere zu machen, sodass ich nicht Z.B einen Magier mit Kurzschwert rumlaufen lasse. Da kamm mir auch die Idee Mana hinzuzufügen sowie vieleicht eine seperate Waffen Klasse für Magische Waffen, die auch eine andere Schadens Art haben.
+
+Bis jetzt fallen mir die Module eigentlich eher einfach, wobei es teilweise auch Aufgaben gibt die ich nicht natürlich nicht verstehe, aber dann kann ich auch einfach meine lehrpersonen um hilfe bitten oder mit google recherchieren. 
+Das programmieren des Spiels macht mir sehr viel Spass aber teilweise will ich so viel mehr machen, obwhol ich noch keine ahnung habe wie das überhaupt funktionieren würde.
